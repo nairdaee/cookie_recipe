@@ -1,0 +1,50 @@
+@media screen and (min-width:480px) and (max-width:767px){
+    body {
+        background-color:black;
+        color: white;
+    }
+}
+@media screen and (min-width:767px){
+    body {
+        background-color:yellow
+    }
+.important {
+    color:royalblue;
+    font: 1em sans-serif;
+    font-size:medium;
+    float:right
+    }
+}
+
+.line1 {
+    color:rebeccapurple
+}
+.img{
+    float:left
+}
+.sidebar {
+    float:right;
+    width:60%;
+    background-color: chartreuse;
+    font-size:large
+}
+.sidebar2 {
+    float:left;
+    width: 60%;
+    background-color: yellow;
+    font-size: large;
+
+}
+.testbox {
+    border:10px solid yellow;
+    padding:30px;
+    margin:2px;
+    background-color:black
+}
+.testbox2 {
+     border:10px solid black;
+     padding:18px;
+     margin:2px;
+     background-color:yellowgreen;
+     float:right
+}
